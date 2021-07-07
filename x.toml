@@ -1,0 +1,5 @@
+[xtest]
+desc = "test this x"
+
+[XDM]
+desc = "duplication of name across file"
