@@ -1,3 +1,8 @@
-[gdm]
+[gdm.1]
+disp = "GDM"
+desc = "some duplication"
+full = "test full meaning"
+
+[gdm.2]
 desc = "some duplication"
 full = "test full meaning"

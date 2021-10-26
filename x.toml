@@ -1,5 +1,6 @@
 [xtest]
 desc = "test this x"
+see = ["xdm"]
 
-[XDM]
+[xdm]
 desc = "duplication of name across file"
