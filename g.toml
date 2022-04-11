@@ -1,8 +1,8 @@
 [gdm.1]
-disp = "GDM"
+name = "GDM"
 desc = "some duplication"
-full = "test full meaning"
+more = "test more meaning"
 
 [gdm.2]
 desc = "some duplication"
-full = "test full meaning"
+more = "test more meaning"
